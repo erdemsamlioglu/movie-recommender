@@ -6,7 +6,7 @@ An interactive movie recommendation system using various filtering techniques, e
   <img src="gifs/movie.gif" alt="Demo" width="600"/>
 </p>
 
-##Project Overview
+## Project Overview
 
 This project aims to help users discover new movies they may enjoy based on movies they've already liked. It started as a data science exploration in Jupyter Notebook and evolved into a full-stack application.
 
