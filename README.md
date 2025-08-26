@@ -1,4 +1,4 @@
-#Movie Recommender System
+# Movie Recommender System
 
 An interactive movie recommendation system using various filtering techniques, evaluated through metrics, and deployed as a web application.
 
